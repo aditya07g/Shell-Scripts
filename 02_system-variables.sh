@@ -16,4 +16,8 @@ echo "Printing USERNAME $USERNAME"
  
 Listfiles=$(ls)
 echo "Printing Files available in this directory:: $Listfiles"
+
+DATE=$(date)
+echo "Printing date: $DATE"
+
  

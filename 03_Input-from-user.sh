@@ -15,3 +15,4 @@ echo "Printing other name: $name2 $name3 $name4"
 read -p "username:" user_var  
 
 echo "The username is: " $user_var  
+
